@@ -26,23 +26,26 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  
 }
 
 h1 {
   font-size: 3.5em;
   margin-bottom: 0;
+  color: #da723c;
 }
 
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
+  color: #c39e5c;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
   font-size: 1.5em;
   margin-top: .5em;
+  color: #91091e;
 }
 
 img {
